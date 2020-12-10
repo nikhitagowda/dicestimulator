@@ -1,0 +1,3 @@
+# dicestimulator
+
+<h2>IT STIMULATES A RANDOM NUMBER FROM 1-6 FOR EACH ROLL</H2>
